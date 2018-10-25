@@ -1,0 +1,22 @@
+{
+  "name": "etheriumprojects",
+  "version": "1.0.0",
+  "description": "This is a Index of my Ethereum Projects as I learn,\r I will have personal repos for most projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moikapy/EthereumProjectLibrary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moikapy/EthereumProjectLibrary/issues"
+  },
+  "homepage": "https://github.com/Moikapy/EthereumProjectLibrary#readme",
+  "devDependencies": {
+    "truffle": "^4.1.14"
+  }
+}

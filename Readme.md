@@ -1,7 +1,8 @@
 # Etherium Projects
 
 ## Introductions
-This is a Index of my Etherium Projects as I learn, I will have personal repos for most projects.
+This is a Index of my Ethereum Projects as I learn,
+I will have personal repos for most projects.
 
 ## Author
 
